@@ -1,0 +1,30 @@
+ 
+
+7-Zip 9.13 beta  Copyright (c) 1999-2010 Igor Pavlov  2010-04-15
+Scanning
+
+Creating archive FilesNeeded.7z
+
+Compressing  YouTube Image.exe
+
+Everything is Ok
+
+7-Zip 9.13 beta  Copyright (c) 1999-2010 Igor Pavlov  2010-04-15
+
+Scanning
+
+Updating archive FilesNeeded.7z
+
+Compressing  YouTube Image.xml
+
+Everything is Ok
+
+7-Zip 9.13 beta  Copyright (c) 1999-2010 Igor Pavlov  2010-04-15
+
+Scanning
+
+Updating archive FilesNeeded.7z
+
+Compressing  YouTube Image.exe.config
+
+Everything is Ok

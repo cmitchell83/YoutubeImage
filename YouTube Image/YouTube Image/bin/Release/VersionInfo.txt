@@ -1,0 +1,10 @@
+﻿App Created by Chris Mitchell
+Version History
+Version 1.0 - Worked as planned
+Version 1.1 - Added multiple resolution options
+Version 1.2 - Fixed issue with browser window not growing with program window
+Version 1.3 - Added support for urls including playlists and other unused code
+Version 1.5 - Cleaned up the code and did some usability cleanup
+Version 1.6 - Added support for alternative url styles
+Version 1.7 - Added Play Video Feature
+Version 1.7.1 - Fixed video playback in app

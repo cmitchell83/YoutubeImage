@@ -1,0 +1,115 @@
+ 
+
+7-Zip 19.00 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2019-02-21
+
+Scanning the drive:
+1 file, 205312 bytes (201 KiB)
+
+Creating archive: FilesNeeded.7z
+
+Add new data to archive: 1 file, 205312 bytes (201 KiB)
+
+
+Files read from disk: 1
+Archive size: 14046 bytes (14 KiB)
+Everything is Ok
+
+7-Zip 19.00 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2019-02-21
+
+Open archive: FilesNeeded.7z
+--
+Path = FilesNeeded.7z
+Type = 7z
+Physical Size = 14046
+Headers Size = 154
+Method = LZMA2:18 BCJ
+Solid = -
+Blocks = 1
+
+Scanning the drive:
+1 file, 687 bytes (1 KiB)
+
+Updating archive: FilesNeeded.7z
+
+Keep old data in archive: 1 file, 205312 bytes (201 KiB)
+Add new data to archive: 1 file, 687 bytes (1 KiB)
+
+
+Files read from disk: 1
+Archive size: 14401 bytes (15 KiB)
+Everything is Ok
+
+7-Zip 19.00 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2019-02-21
+
+Open archive: FilesNeeded.7z
+--
+Path = FilesNeeded.7z
+Type = 7z
+Physical Size = 14401
+Headers Size = 193
+Method = LZMA2:18 BCJ
+Solid = -
+Blocks = 2
+
+Scanning the drive:
+1 file, 2196 bytes (3 KiB)
+
+Updating archive: FilesNeeded.7z
+
+Keep old data in archive: 2 files, 205999 bytes (202 KiB)
+Add new data to archive: 1 file, 2196 bytes (3 KiB)
+
+
+Files read from disk: 1
+Archive size: 15212 bytes (15 KiB)
+Everything is Ok
+
+7-Zip 19.00 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2019-02-21
+
+Open archive: FilesNeeded.7z
+--
+Path = FilesNeeded.7z
+Type = 7z
+Physical Size = 15212
+Headers Size = 221
+Method = LZMA2:18 BCJ
+Solid = -
+Blocks = 3
+
+Scanning the drive:
+1 file, 497 bytes (1 KiB)
+
+Updating archive: FilesNeeded.7z
+
+Keep old data in archive: 3 files, 208195 bytes (204 KiB)
+Add new data to archive: 1 file, 497 bytes (1 KiB)
+
+
+Files read from disk: 1
+Archive size: 15547 bytes (16 KiB)
+Everything is Ok
+
+7-Zip 19.00 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2019-02-21
+
+Open archive: FilesNeeded.7z
+--
+Path = FilesNeeded.7z
+Type = 7z
+Physical Size = 15547
+Headers Size = 258
+Method = LZMA2:18 BCJ
+Solid = -
+Blocks = 4
+
+Scanning the drive:
+1 file, 44544 bytes (44 KiB)
+
+Updating archive: FilesNeeded.7z
+
+Keep old data in archive: 4 files, 208692 bytes (204 KiB)
+Add new data to archive: 1 file, 44544 bytes (44 KiB)
+
+
+Files read from disk: 1
+Archive size: 22118 bytes (22 KiB)
+Everything is Ok
